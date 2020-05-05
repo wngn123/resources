@@ -1,0 +1,93 @@
+/** book common style */
+body {
+    padding-top: 70px;
+}
+
+.wang {
+    padding: 10px 15px;
+}
+
+.navbar-wang {
+    background-color: #cccccc;
+}
+
+a:link {
+    color: #398dee;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #398dee;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #35b558;
+    text-decoration: none;
+}
+
+a:active {
+    color: #35b558;
+    text-decoration: none;
+}
+
+#form-box {
+    padding: 20px 0px;
+}
+
+#pagination {
+    text-align: center;
+}
+
+#container-footer {
+    text-align: center;
+}
+
+#container-context {
+    height: auto;
+    min-height: 700px;
+    _height: 700px;
+}
+
+.control-value {
+    padding-top: 5px;
+}
+
+.area-show {
+    width: 200px;
+    border: 0;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    disabled: disabled;
+    background-color: transparent;
+    color: #666464;
+    height: auto;
+}
+
+.navbar-header img {
+    width: 50px;
+    height: 50px;
+    padding: 0;
+    margin-right: 20px;
+}
+
+#header-title{
+    color: #35b558;
+}
+
+#message {
+    position: fixed;
+    top: 50px;
+    left: 0px;
+    margin-left: 40%;
+    width: 300px;
+    height: 60px;
+    display: none;
+    background: #35b558;
+    color: red;
+    z-index: 999;
+    text-align: center;
+    line-height: 60px;
+}
